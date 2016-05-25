@@ -1,0 +1,11 @@
+#
+# robots.txt for TTkea
+#
+
+User-agent: *
+Allow: /
+Disallow: /uploads
+Disallow: /temp
+Disallow: /lib
+Disallow: /action
+
