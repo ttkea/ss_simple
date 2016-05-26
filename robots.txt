@@ -1,7 +1,3 @@
-#
-# robots.txt for TTkea
-#
-
 User-agent: *
 Allow: /
 Disallow: /uploads
